@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "ErwyDMkLxWddemQhXKsKzcbpRTHv5DDFyuF5y8956zSQb",
+  "symbol": "AXO",
+  "name": "Axolotl Coin",
+  "decimals": 8,
+  "logoURI": "https://imgur.com/MpErErv",
+  "tags": ["utility-token"]
+}
