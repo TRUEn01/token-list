@@ -4,6 +4,6 @@
   "symbol": "AXO",
   "name": "Axolotl Coin",
   "decimals": 8,
-  "logoURI": "https://imgur.com/MpErErv",
+  "logoURI": "https://raw.githubusercontent.com/TRUEn01/AxolotlCoin.sol-contract./main/AXO.png",
   "tags": ["utility-token"]
 }
